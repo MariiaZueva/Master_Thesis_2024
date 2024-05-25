@@ -1,0 +1,7 @@
+,intent,object coverage,F1 test
+0,"[('concavity_mean <= 0.093', 'concavity_worst <= 0.26', 'area_se <= 31.285'), ('area_mean <= 696.25',)]",0.77,0.919
+1,"[('concavity_mean <= 0.093', 'area_se <= 31.285'), ('area_mean <= 696.25',)]",0.75,0.919
+2,"[('concavity_mean <= 0.093', 'concavity_worst <= 0.26'), ('area_mean <= 696.25', 'area_se <= 31.285')]",0.77,0.907
+3,"[('concavity_mean <= 0.093',), ('area_mean <= 696.25', 'area_se <= 31.285')]",0.75,0.911
+4,"[('area_se <= 31.285',), ('concavity_mean <= 0.093', 'concavity_worst <= 0.26')]",0.74,0.917
+5,"[('concavity_worst <= 0.26',), ('area_mean <= 696.25', 'area_se <= 31.285')]",0.76,0.913

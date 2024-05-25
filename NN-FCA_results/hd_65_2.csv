@@ -1,0 +1,6 @@
+,intent,object coverage,F1 test
+1,"[('sex', 'thalach 70-95', 'oldpeak 2.', 'ca = 1', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1', 'thal = 3'), ('sex', 'age 29-40', 'cp = 3', 'thalach 70-95', 'thalach 186-202', 'ca = 0', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1')]",0.97,0.868
+0,"[('sex', 'age 29-40', 'cp = 3', 'thalach 70-95', 'thalach 186-202', 'ca = 0', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1'), ('sex', 'thalach 70-95', 'oldpeak 2.', 'oldpeak 3.-6.', 'slope = 0', 'ca = 1', 'ca = 2', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1')]",1.0,0.872
+2,"[('sex', 'thalach 70-95', 'oldpeak 2.', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1', 'thal = 3'), ('sex', 'age 29-40', 'cp = 3', 'thalach 70-95', 'thalach 186-202', 'ca = 0', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1')]",0.89,0.869
+3,"[('sex', 'oldpeak 2.', 'oldpeak 3.-6.', 'slope = 0', 'ca = 2', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1'), ('sex', 'age 29-40', 'cp = 3', 'thalach 70-95', 'thalach 186-202', 'ca = 0', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1')]",0.85,0.863
+4,"[('sex', 'ca = 2', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1'), ('sex', 'age 29-40', 'cp = 3', 'thalach 70-95', 'thalach 186-202', 'ca = 0', 'ca = 3', 'ca = 4', 'ca = 5', 'thal = 0', 'thal = 1')]",0.81,0.865

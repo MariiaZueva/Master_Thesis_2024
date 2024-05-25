@@ -1,0 +1,8 @@
+,intent,object coverage,F1 test
+0,"[('Age>60', 'Shape>2.5', 'Margin>1.5'), ('BI-RADS>4',), ('BI-RADS>4', 'Age>60', 'Shape>2.5', 'Margin>1.5')]",0.72,0.825
+1,"[('Age>60', 'Margin>1.5'), ('BI-RADS>4', 'Shape>2.5'), ('BI-RADS>4', 'Age>60', 'Shape>2.5', 'Margin>1.5')]",0.72,0.817
+2,"[('BI-RADS>4', 'Age>60', 'Shape>2.5'), ('Margin>1.5',), ('BI-RADS>4', 'Age>60', 'Shape>2.5', 'Margin>1.5')]",0.72,0.821
+3,"[('Age>60', 'Shape>2.5'), ('BI-RADS>4', 'Margin>1.5'), ('BI-RADS>4', 'Age>60', 'Shape>2.5', 'Margin>1.5')]",0.72,0.812
+4,"[('Shape>2.5', 'Margin>1.5'), ('BI-RADS>4', 'Age>60'), ('BI-RADS>4', 'Age>60', 'Shape>2.5', 'Margin>1.5')]",0.72,0.815
+5,"[('Shape>2.5',), ('BI-RADS>4', 'Age>60', 'Margin>1.5'), ('BI-RADS>4', 'Age>60', 'Shape>2.5', 'Margin>1.5')]",0.72,0.815
+6,"[('Age>60',), ('BI-RADS>4', 'Shape>2.5', 'Margin>1.5'), ('BI-RADS>4', 'Age>60', 'Shape>2.5', 'Margin>1.5')]",0.72,0.813

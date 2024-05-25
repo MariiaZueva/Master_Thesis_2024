@@ -1,0 +1,8 @@
+,intent,object coverage,F1 test
+0,"[('Shape>2.5', 'Margin>1.5'), ('BI-RADS>4', 'Age>60')]",0.72,0.819
+1,"[('BI-RADS>4', 'Margin>1.5'), ('Age>60',)]",0.69,0.809
+2,"[('Margin>1.5',), ('BI-RADS>4', 'Age>60')]",0.69,0.813
+3,"[('BI-RADS>4', 'Shape>2.5'), ('Age>60',)]",0.68,0.814
+4,"[('Shape>2.5',), ('BI-RADS>4', 'Age>60')]",0.68,0.813
+5,"[('Age>60',), ('BI-RADS>4', 'Shape>2.5', 'Margin>1.5')]",0.72,0.818
+6,"[('BI-RADS>4',), ('Shape>2.5', 'Margin>1.5')]",0.65,0.806
