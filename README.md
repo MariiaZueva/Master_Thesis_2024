@@ -7,17 +7,18 @@ The folder contains datasets used in the thesis.
 ## data preprocessing
 The folder contains files with datasets feature preprocessing and binarization. 
 
+## baselines
+The folder contains baseline models experiments with datasets under consideration.
+
 ## NN-FCA
 The folder contains code regarding neural networks based on concept lattices.
 
 ## NN-Clustering
-The folder contains code regarding neural networks based on clustering methods
+The folder contains code regarding neural networks based on clustering methods.
 
 ## NN-FCA_results
-The folder contains experimental results regarding neural networks based on concept lattices with considered datasets
+The folder contains experimental results regarding neural networks based on concept lattices with considered datasets.
 
 ## Clustering results
-The folder contains experimental results  regarding neural networks based on clustering methods with considered datasets
+The folder contains experimental results  regarding neural networks based on clustering methods with considered datasets.
 
-## baselines
-baseline models experiments with datasets under consideration
