@@ -22,3 +22,5 @@ The folder contains experimental results regarding neural networks based on conc
 ## Clustering results
 The folder contains experimental results  regarding neural networks based on clustering methods with considered datasets.
 
+## neural_lib58.py
+Library for building neural networks based on concept lattices.
